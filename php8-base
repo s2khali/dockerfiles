@@ -1,3 +1,4 @@
+# Generic PHP8 Web Server base image
 FROM ubuntu:20.04
 
 COPY build /var/www/_build
